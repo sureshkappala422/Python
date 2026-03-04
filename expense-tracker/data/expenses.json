@@ -1,0 +1,20 @@
+[
+  {
+    "date": "2026-03-02",
+    "amount": 120.0,
+    "category": "Travel",
+    "description": "Uber Auto"
+  },
+  {
+    "date": "2026-03-04",
+    "amount": 100.0,
+    "category": "food",
+    "description": "good food for health"
+  },
+  {
+    "date": "2026-03-04",
+    "amount": 300.0,
+    "category": "shopping",
+    "description": "buy a shirt"
+  }
+]
