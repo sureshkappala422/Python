@@ -7,6 +7,7 @@ words = ['suresh', 'kavya', 'banana', 'apple', 'grapes'
         'from', 'to', 'speaker', 'radio', 'date', 
         'cricket', 'chess', 'ball', 'bat', 'car']
 
+#choose the choice
 word = random.choice(words)
 print("Guess the word!. ")
 
