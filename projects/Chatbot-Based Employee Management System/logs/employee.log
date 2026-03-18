@@ -356,3 +356,587 @@
 2026-03-12 19:40:37,677 - ERROR - Postgres insert failed
 2026-03-12 19:40:37,677 - INFO - Employee Created | {'Employee_ID': 'EMP9324', 'Employee_Name': 'kpl', 'Department': 'It', 'Skill_Set': 'python', '_id': ObjectId('69b2c959e66924bc6085def6')}
 2026-03-12 19:40:37,678 - INFO - 127.0.0.1 - - [12/Mar/2026 19:40:37] "POST /chat HTTP/1.1" 200 -
+2026-03-12 19:48:31,926 - INFO -  * Detected change in 'C:\\Users\\surik\\Desktop\\Python AI (FLM)\\projects\\Chatbot-Based Employee Management System\\employee_service.py', reloading
+2026-03-12 19:48:32,770 - INFO -  * Restarting with stat
+2026-03-12 19:48:33,465 - WARNING -  * Debugger is active!
+2026-03-12 19:48:33,472 - INFO -  * Debugger PIN: 443-358-039
+2026-03-12 19:48:54,495 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2026-03-12 19:48:54,495 - INFO - [33mPress CTRL+C to quit[0m
+2026-03-12 19:48:54,497 - INFO -  * Restarting with stat
+2026-03-12 19:48:55,031 - WARNING -  * Debugger is active!
+2026-03-12 19:48:55,038 - INFO -  * Debugger PIN: 443-358-039
+2026-03-12 19:49:01,254 - INFO - 127.0.0.1 - - [12/Mar/2026 19:49:01] "GET / HTTP/1.1" 200 -
+2026-03-12 19:49:13,405 - INFO - Employee Created: {'Employee_ID': 'EMP00001', 'Employee_Name': 'Kaviup', 'Department': 'itt', 'Skill_Set': 'Pyt'}
+2026-03-12 19:49:13,405 - INFO - 127.0.0.1 - - [12/Mar/2026 19:49:13] "POST /chat HTTP/1.1" 200 -
+2026-03-12 19:49:24,416 - INFO - Employee Created: {'Employee_ID': 'EMP00002', 'Employee_Name': 'Kaviup', 'Department': 'itt', 'Skill_Set': 'Pythtd'}
+2026-03-12 19:49:24,417 - INFO - 127.0.0.1 - - [12/Mar/2026 19:49:24] "POST /chat HTTP/1.1" 200 -
+2026-03-12 19:49:29,680 - INFO - Employee Created: {'Employee_ID': 'EMP00003', 'Employee_Name': 'Kaviup', 'Department': 'itt', 'Skill_Set': 'Pythtdyutdf'}
+2026-03-12 19:49:29,680 - INFO - 127.0.0.1 - - [12/Mar/2026 19:49:29] "POST /chat HTTP/1.1" 200 -
+2026-03-12 19:49:34,071 - INFO - Employee Created: {'Employee_ID': 'EMP00004', 'Employee_Name': 'Kaviup', 'Department': 'jgfvitt', 'Skill_Set': 'Pythtdyutdf'}
+2026-03-12 19:49:34,072 - INFO - 127.0.0.1 - - [12/Mar/2026 19:49:34] "POST /chat HTTP/1.1" 200 -
+2026-03-12 19:53:49,428 - INFO -  * Detected change in 'C:\\Users\\surik\\Desktop\\Python AI (FLM)\\projects\\Chatbot-Based Employee Management System\\database_mongo.py', reloading
+2026-03-12 19:53:49,620 - INFO -  * Restarting with stat
+2026-03-12 19:53:50,386 - WARNING -  * Debugger is active!
+2026-03-12 19:53:50,391 - INFO -  * Debugger PIN: 443-358-039
+2026-03-12 19:53:59,681 - INFO -  * Detected change in 'C:\\Users\\surik\\Desktop\\Python AI (FLM)\\projects\\Chatbot-Based Employee Management System\\employee_service.py', reloading
+2026-03-12 19:53:59,751 - INFO -  * Restarting with stat
+2026-03-12 19:54:12,900 - INFO -  * Restarting with stat
+2026-03-12 19:54:35,971 - INFO -  * Restarting with stat
+2026-03-12 19:57:08,432 - WARNING -  * Debugger is active!
+2026-03-12 19:57:08,436 - INFO -  * Debugger PIN: 443-358-039
+2026-03-12 19:57:15,688 - INFO -  * Detected change in 'C:\\Users\\surik\\Desktop\\Python AI (FLM)\\projects\\Chatbot-Based Employee Management System\\database_mongo.py', reloading
+2026-03-12 19:57:17,437 - WARNING -  * Debugger is active!
+2026-03-12 19:57:17,440 - INFO -  * Debugger PIN: 443-358-039
+2026-03-12 19:57:20,566 - INFO -  * Detected change in 'C:\\Users\\surik\\Desktop\\Python AI (FLM)\\projects\\Chatbot-Based Employee Management System\\database_mongo.py', reloading
+2026-03-12 19:57:21,105 - WARNING -  * Debugger is active!
+2026-03-12 19:57:21,108 - INFO -  * Debugger PIN: 443-358-039
+2026-03-12 19:57:27,391 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2026-03-12 19:57:27,391 - INFO - [33mPress CTRL+C to quit[0m
+2026-03-12 19:57:27,394 - INFO -  * Restarting with stat
+2026-03-12 19:57:27,812 - WARNING -  * Debugger is active!
+2026-03-12 19:57:27,815 - INFO -  * Debugger PIN: 443-358-039
+2026-03-12 19:57:34,137 - INFO - 127.0.0.1 - - [12/Mar/2026 19:57:34] "GET / HTTP/1.1" 200 -
+2026-03-12 19:57:40,119 - INFO - Employee Created: {'Employee_ID': 'EMP00001', 'Employee_Name': 'fgh', 'Department': 'tyfh', 'Skill_Set': 'gfjh'}
+2026-03-12 19:57:40,120 - INFO - 127.0.0.1 - - [12/Mar/2026 19:57:40] "POST /chat HTTP/1.1" 200 -
+2026-03-12 19:57:56,971 - INFO - Employee Created: {'Employee_ID': 'EMP00002', 'Employee_Name': 'fgh', 'Department': 'tyfh', 'Skill_Set': 'gfjhfdhg'}
+2026-03-12 19:57:56,972 - INFO - 127.0.0.1 - - [12/Mar/2026 19:57:56] "POST /chat HTTP/1.1" 200 -
+2026-03-12 19:58:02,627 - INFO - Employee Created: {'Employee_ID': 'EMP00003', 'Employee_Name': 'fgh', 'Department': 'tyfh', 'Skill_Set': 'gfjhfdhg'}
+2026-03-12 19:58:02,627 - INFO - 127.0.0.1 - - [12/Mar/2026 19:58:02] "POST /chat HTTP/1.1" 200 -
+2026-03-12 19:58:03,483 - INFO - Employee Created: {'Employee_ID': 'EMP00004', 'Employee_Name': 'fgh', 'Department': 'tyfh', 'Skill_Set': 'gfjhfdhg'}
+2026-03-12 19:58:03,483 - INFO - 127.0.0.1 - - [12/Mar/2026 19:58:03] "POST /chat HTTP/1.1" 200 -
+2026-03-12 19:58:03,946 - INFO - Employee Created: {'Employee_ID': 'EMP00005', 'Employee_Name': 'fgh', 'Department': 'tyfh', 'Skill_Set': 'gfjhfdhg'}
+2026-03-12 19:58:03,947 - INFO - 127.0.0.1 - - [12/Mar/2026 19:58:03] "POST /chat HTTP/1.1" 200 -
+2026-03-12 19:58:04,187 - INFO - Employee Created: {'Employee_ID': 'EMP00006', 'Employee_Name': 'fgh', 'Department': 'tyfh', 'Skill_Set': 'gfjhfdhg'}
+2026-03-12 19:58:04,187 - INFO - 127.0.0.1 - - [12/Mar/2026 19:58:04] "POST /chat HTTP/1.1" 200 -
+2026-03-12 19:58:04,395 - INFO - Employee Created: {'Employee_ID': 'EMP00007', 'Employee_Name': 'fgh', 'Department': 'tyfh', 'Skill_Set': 'gfjhfdhg'}
+2026-03-12 19:58:04,395 - INFO - 127.0.0.1 - - [12/Mar/2026 19:58:04] "POST /chat HTTP/1.1" 200 -
+2026-03-12 19:58:04,587 - INFO - Employee Created: {'Employee_ID': 'EMP00008', 'Employee_Name': 'fgh', 'Department': 'tyfh', 'Skill_Set': 'gfjhfdhg'}
+2026-03-12 19:58:04,587 - INFO - 127.0.0.1 - - [12/Mar/2026 19:58:04] "POST /chat HTTP/1.1" 200 -
+2026-03-12 19:58:04,755 - INFO - Employee Created: {'Employee_ID': 'EMP00009', 'Employee_Name': 'fgh', 'Department': 'tyfh', 'Skill_Set': 'gfjhfdhg'}
+2026-03-12 19:58:04,755 - INFO - 127.0.0.1 - - [12/Mar/2026 19:58:04] "POST /chat HTTP/1.1" 200 -
+2026-03-12 19:58:04,946 - INFO - Employee Created: {'Employee_ID': 'EMP00010', 'Employee_Name': 'fgh', 'Department': 'tyfh', 'Skill_Set': 'gfjhfdhg'}
+2026-03-12 19:58:04,946 - INFO - 127.0.0.1 - - [12/Mar/2026 19:58:04] "POST /chat HTTP/1.1" 200 -
+2026-03-12 19:58:05,146 - INFO - Employee Created: {'Employee_ID': 'EMP00011', 'Employee_Name': 'fgh', 'Department': 'tyfh', 'Skill_Set': 'gfjhfdhg'}
+2026-03-12 19:58:05,147 - INFO - 127.0.0.1 - - [12/Mar/2026 19:58:05] "POST /chat HTTP/1.1" 200 -
+2026-03-12 19:58:05,338 - INFO - Employee Created: {'Employee_ID': 'EMP00012', 'Employee_Name': 'fgh', 'Department': 'tyfh', 'Skill_Set': 'gfjhfdhg'}
+2026-03-12 19:58:05,338 - INFO - 127.0.0.1 - - [12/Mar/2026 19:58:05] "POST /chat HTTP/1.1" 200 -
+2026-03-12 19:58:05,531 - INFO - Employee Created: {'Employee_ID': 'EMP00013', 'Employee_Name': 'fgh', 'Department': 'tyfh', 'Skill_Set': 'gfjhfdhg'}
+2026-03-12 19:58:05,531 - INFO - 127.0.0.1 - - [12/Mar/2026 19:58:05] "POST /chat HTTP/1.1" 200 -
+2026-03-12 19:58:05,722 - INFO - Employee Created: {'Employee_ID': 'EMP00014', 'Employee_Name': 'fgh', 'Department': 'tyfh', 'Skill_Set': 'gfjhfdhg'}
+2026-03-12 19:58:05,722 - INFO - 127.0.0.1 - - [12/Mar/2026 19:58:05] "POST /chat HTTP/1.1" 200 -
+2026-03-12 19:58:18,941 - INFO - Employee Created: {'Employee_ID': 'EMP00015', 'Employee_Name': 'fgh', 'Department': 'tyfh', 'Skill_Set': 'gfjhfdhg'}
+2026-03-12 19:58:18,941 - INFO - 127.0.0.1 - - [12/Mar/2026 19:58:18] "POST /chat HTTP/1.1" 200 -
+2026-03-12 19:58:59,382 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2026-03-12 19:58:59,383 - INFO - [33mPress CTRL+C to quit[0m
+2026-03-12 19:58:59,387 - INFO -  * Restarting with stat
+2026-03-12 19:58:59,789 - WARNING -  * Debugger is active!
+2026-03-12 19:58:59,792 - INFO -  * Debugger PIN: 443-358-039
+2026-03-12 19:59:19,874 - INFO - 127.0.0.1 - - [12/Mar/2026 19:59:19] "GET / HTTP/1.1" 200 -
+2026-03-12 20:00:45,791 - INFO - 127.0.0.1 - - [12/Mar/2026 20:00:45] "GET / HTTP/1.1" 200 -
+2026-03-12 20:01:39,496 - INFO - 127.0.0.1 - - [12/Mar/2026 20:01:39] "GET / HTTP/1.1" 200 -
+2026-03-12 20:02:09,752 - INFO - 127.0.0.1 - - [12/Mar/2026 20:02:09] "GET / HTTP/1.1" 200 -
+2026-03-12 20:02:22,862 - INFO - 127.0.0.1 - - [12/Mar/2026 20:02:22] "GET / HTTP/1.1" 200 -
+2026-03-12 20:02:52,842 - INFO - 127.0.0.1 - - [12/Mar/2026 20:02:52] "GET / HTTP/1.1" 200 -
+2026-03-12 20:03:30,483 - INFO - 127.0.0.1 - - [12/Mar/2026 20:03:30] "GET / HTTP/1.1" 200 -
+2026-03-12 20:04:16,830 - INFO - 127.0.0.1 - - [12/Mar/2026 20:04:16] "GET / HTTP/1.1" 200 -
+2026-03-12 20:04:32,109 - INFO - 127.0.0.1 - - [12/Mar/2026 20:04:32] "GET / HTTP/1.1" 200 -
+2026-03-12 20:04:33,211 - INFO - 127.0.0.1 - - [12/Mar/2026 20:04:33] "GET / HTTP/1.1" 200 -
+2026-03-12 20:04:42,048 - INFO - 127.0.0.1 - - [12/Mar/2026 20:04:42] "GET / HTTP/1.1" 200 -
+2026-03-12 20:04:52,125 - INFO - 127.0.0.1 - - [12/Mar/2026 20:04:52] "GET / HTTP/1.1" 200 -
+2026-03-12 20:04:53,692 - INFO - 127.0.0.1 - - [12/Mar/2026 20:04:53] "GET / HTTP/1.1" 200 -
+2026-03-12 20:10:52,125 - INFO - 127.0.0.1 - - [12/Mar/2026 20:10:52] "GET / HTTP/1.1" 200 -
+2026-03-12 20:11:00,057 - INFO - 127.0.0.1 - - [12/Mar/2026 20:11:00] "GET / HTTP/1.1" 200 -
+2026-03-12 20:11:05,752 - INFO - 127.0.0.1 - - [12/Mar/2026 20:11:05] "GET / HTTP/1.1" 200 -
+2026-03-12 20:11:16,974 - INFO - 127.0.0.1 - - [12/Mar/2026 20:11:16] "GET / HTTP/1.1" 200 -
+2026-03-12 20:11:26,279 - INFO - 127.0.0.1 - - [12/Mar/2026 20:11:26] "GET / HTTP/1.1" 200 -
+2026-03-12 20:12:49,031 - INFO - 127.0.0.1 - - [12/Mar/2026 20:12:49] "GET / HTTP/1.1" 200 -
+2026-03-12 20:13:15,794 - INFO - 127.0.0.1 - - [12/Mar/2026 20:13:15] "[35m[1mPOST /chat HTTP/1.1[0m" 500 -
+2026-03-12 20:13:41,929 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2026-03-12 20:13:41,930 - INFO - [33mPress CTRL+C to quit[0m
+2026-03-12 20:13:41,932 - INFO -  * Restarting with stat
+2026-03-12 20:13:42,783 - WARNING -  * Debugger is active!
+2026-03-12 20:13:42,789 - INFO -  * Debugger PIN: 443-358-039
+2026-03-12 20:13:48,823 - INFO - 127.0.0.1 - - [12/Mar/2026 20:13:48] "GET / HTTP/1.1" 200 -
+2026-03-12 20:13:56,993 - INFO - 127.0.0.1 - - [12/Mar/2026 20:13:56] "[35m[1mPOST /chat HTTP/1.1[0m" 500 -
+2026-03-12 20:15:57,195 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2026-03-12 20:15:57,196 - INFO - [33mPress CTRL+C to quit[0m
+2026-03-12 20:15:57,198 - INFO -  * Restarting with stat
+2026-03-12 20:15:57,698 - WARNING -  * Debugger is active!
+2026-03-12 20:15:57,702 - INFO -  * Debugger PIN: 443-358-039
+2026-03-12 20:16:02,777 - INFO - 127.0.0.1 - - [12/Mar/2026 20:16:02] "GET / HTTP/1.1" 200 -
+2026-03-12 20:17:08,756 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2026-03-12 20:17:08,756 - INFO - [33mPress CTRL+C to quit[0m
+2026-03-12 20:17:08,758 - INFO -  * Restarting with stat
+2026-03-12 20:17:09,144 - WARNING -  * Debugger is active!
+2026-03-12 20:17:09,147 - INFO -  * Debugger PIN: 443-358-039
+2026-03-12 20:17:13,525 - INFO - 127.0.0.1 - - [12/Mar/2026 20:17:13] "GET / HTTP/1.1" 200 -
+2026-03-12 20:17:19,531 - INFO - Employee Created: {'Employee_ID': 'EMP00001', 'Employee_Name': 'ftj', 'Department': 'rtf', 'Skill_Set': 'tyjg'}
+2026-03-12 20:17:19,531 - INFO - 127.0.0.1 - - [12/Mar/2026 20:17:19] "POST /chat HTTP/1.1" 200 -
+2026-03-12 20:17:20,755 - INFO - Employee Created: {'Employee_ID': 'EMP00002', 'Employee_Name': 'ftj', 'Department': 'rtf', 'Skill_Set': 'tyjg'}
+2026-03-12 20:17:20,755 - INFO - 127.0.0.1 - - [12/Mar/2026 20:17:20] "POST /chat HTTP/1.1" 200 -
+2026-03-12 20:18:01,978 - INFO - Employee Created: {'Employee_ID': 'EMP00003', 'Employee_Name': 'ftj', 'Department': 'rtf', 'Skill_Set': 'tyjg'}
+2026-03-12 20:18:01,979 - INFO - 127.0.0.1 - - [12/Mar/2026 20:18:01] "POST /chat HTTP/1.1" 200 -
+2026-03-12 20:20:24,279 - INFO - 127.0.0.1 - - [12/Mar/2026 20:20:24] "GET / HTTP/1.1" 200 -
+2026-03-12 20:23:24,826 - INFO - 127.0.0.1 - - [12/Mar/2026 20:23:24] "GET / HTTP/1.1" 200 -
+2026-03-12 20:23:27,538 - INFO - 127.0.0.1 - - [12/Mar/2026 20:23:27] "GET / HTTP/1.1" 200 -
+2026-03-12 20:24:16,598 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2026-03-12 20:24:16,598 - INFO - [33mPress CTRL+C to quit[0m
+2026-03-12 20:24:16,602 - INFO -  * Restarting with stat
+2026-03-12 20:24:17,126 - WARNING -  * Debugger is active!
+2026-03-12 20:24:17,132 - INFO -  * Debugger PIN: 443-358-039
+2026-03-12 20:24:21,633 - INFO - 127.0.0.1 - - [12/Mar/2026 20:24:21] "GET / HTTP/1.1" 200 -
+2026-03-12 20:24:27,493 - INFO - Employee Created: {'Employee_ID': 'EMP00001', 'Employee_Name': 'hfgdfgf', 'Department': 'h', 'Skill_Set': 'hgfd'}
+2026-03-12 20:24:27,493 - INFO - 127.0.0.1 - - [12/Mar/2026 20:24:27] "POST /chat HTTP/1.1" 200 -
+2026-03-12 20:28:33,418 - INFO - 127.0.0.1 - - [12/Mar/2026 20:28:33] "GET / HTTP/1.1" 200 -
+2026-03-12 20:28:43,251 - INFO - 127.0.0.1 - - [12/Mar/2026 20:28:43] "[35m[1mPOST /chat HTTP/1.1[0m" 500 -
+2026-03-12 20:29:36,846 - INFO - 127.0.0.1 - - [12/Mar/2026 20:29:36] "GET / HTTP/1.1" 200 -
+2026-03-12 20:29:42,318 - INFO - Employee Created: {'Employee_ID': 'EMP00002', 'Employee_Name': 'rhfg', 'Department': 'yujhg', 'Skill_Set': 'l'}
+2026-03-12 20:29:42,318 - INFO - 127.0.0.1 - - [12/Mar/2026 20:29:42] "POST /chat HTTP/1.1" 200 -
+2026-03-12 20:29:47,583 - INFO - Employee Created: {'Employee_ID': 'EMP00003', 'Employee_Name': 'rhfg', 'Department': 'yujhg', 'Skill_Set': 'l'}
+2026-03-12 20:29:47,584 - INFO - 127.0.0.1 - - [12/Mar/2026 20:29:47] "POST /chat HTTP/1.1" 200 -
+2026-03-12 20:29:50,908 - INFO - 127.0.0.1 - - [12/Mar/2026 20:29:50] "GET / HTTP/1.1" 200 -
+2026-03-12 20:29:57,318 - INFO - Employee Created: {'Employee_ID': 'EMP00004', 'Employee_Name': 'jghf', 'Department': 'ujh', 'Skill_Set': 'k'}
+2026-03-12 20:29:57,318 - INFO - 127.0.0.1 - - [12/Mar/2026 20:29:57] "POST /chat HTTP/1.1" 200 -
+2026-03-12 20:30:00,823 - INFO - Employee Created: {'Employee_ID': 'EMP00005', 'Employee_Name': 'jghf', 'Department': 'ujh', 'Skill_Set': 'k'}
+2026-03-12 20:30:00,824 - INFO - 127.0.0.1 - - [12/Mar/2026 20:30:00] "POST /chat HTTP/1.1" 200 -
+2026-03-12 20:30:01,014 - INFO - Employee Created: {'Employee_ID': 'EMP00006', 'Employee_Name': 'jghf', 'Department': 'ujh', 'Skill_Set': 'k'}
+2026-03-12 20:30:01,015 - INFO - 127.0.0.1 - - [12/Mar/2026 20:30:01] "POST /chat HTTP/1.1" 200 -
+2026-03-12 20:30:01,198 - INFO - Employee Created: {'Employee_ID': 'EMP00007', 'Employee_Name': 'jghf', 'Department': 'ujh', 'Skill_Set': 'k'}
+2026-03-12 20:30:01,198 - INFO - 127.0.0.1 - - [12/Mar/2026 20:30:01] "POST /chat HTTP/1.1" 200 -
+2026-03-12 20:30:01,374 - INFO - Employee Created: {'Employee_ID': 'EMP00008', 'Employee_Name': 'jghf', 'Department': 'ujh', 'Skill_Set': 'k'}
+2026-03-12 20:30:01,375 - INFO - 127.0.0.1 - - [12/Mar/2026 20:30:01] "POST /chat HTTP/1.1" 200 -
+2026-03-12 20:30:01,551 - INFO - Employee Created: {'Employee_ID': 'EMP00009', 'Employee_Name': 'jghf', 'Department': 'ujh', 'Skill_Set': 'k'}
+2026-03-12 20:30:01,551 - INFO - 127.0.0.1 - - [12/Mar/2026 20:30:01] "POST /chat HTTP/1.1" 200 -
+2026-03-12 20:30:01,726 - INFO - Employee Created: {'Employee_ID': 'EMP00010', 'Employee_Name': 'jghf', 'Department': 'ujh', 'Skill_Set': 'k'}
+2026-03-12 20:30:01,727 - INFO - 127.0.0.1 - - [12/Mar/2026 20:30:01] "POST /chat HTTP/1.1" 200 -
+2026-03-12 20:30:01,903 - INFO - Employee Created: {'Employee_ID': 'EMP00011', 'Employee_Name': 'jghf', 'Department': 'ujh', 'Skill_Set': 'k'}
+2026-03-12 20:30:01,903 - INFO - 127.0.0.1 - - [12/Mar/2026 20:30:01] "POST /chat HTTP/1.1" 200 -
+2026-03-12 20:30:02,078 - INFO - Employee Created: {'Employee_ID': 'EMP00012', 'Employee_Name': 'jghf', 'Department': 'ujh', 'Skill_Set': 'k'}
+2026-03-12 20:30:02,078 - INFO - 127.0.0.1 - - [12/Mar/2026 20:30:02] "POST /chat HTTP/1.1" 200 -
+2026-03-12 20:30:02,262 - INFO - Employee Created: {'Employee_ID': 'EMP00013', 'Employee_Name': 'jghf', 'Department': 'ujh', 'Skill_Set': 'k'}
+2026-03-12 20:30:02,263 - INFO - 127.0.0.1 - - [12/Mar/2026 20:30:02] "POST /chat HTTP/1.1" 200 -
+2026-03-12 20:30:02,439 - INFO - Employee Created: {'Employee_ID': 'EMP00014', 'Employee_Name': 'jghf', 'Department': 'ujh', 'Skill_Set': 'k'}
+2026-03-12 20:30:02,439 - INFO - 127.0.0.1 - - [12/Mar/2026 20:30:02] "POST /chat HTTP/1.1" 200 -
+2026-03-12 20:30:02,623 - INFO - Employee Created: {'Employee_ID': 'EMP00015', 'Employee_Name': 'jghf', 'Department': 'ujh', 'Skill_Set': 'k'}
+2026-03-12 20:30:02,623 - INFO - 127.0.0.1 - - [12/Mar/2026 20:30:02] "POST /chat HTTP/1.1" 200 -
+2026-03-12 20:30:02,831 - INFO - Employee Created: {'Employee_ID': 'EMP00016', 'Employee_Name': 'jghf', 'Department': 'ujh', 'Skill_Set': 'k'}
+2026-03-12 20:30:02,831 - INFO - 127.0.0.1 - - [12/Mar/2026 20:30:02] "POST /chat HTTP/1.1" 200 -
+2026-03-12 20:30:03,009 - INFO - Employee Created: {'Employee_ID': 'EMP00017', 'Employee_Name': 'jghf', 'Department': 'ujh', 'Skill_Set': 'k'}
+2026-03-12 20:30:03,009 - INFO - 127.0.0.1 - - [12/Mar/2026 20:30:03] "POST /chat HTTP/1.1" 200 -
+2026-03-12 20:30:03,182 - INFO - Employee Created: {'Employee_ID': 'EMP00018', 'Employee_Name': 'jghf', 'Department': 'ujh', 'Skill_Set': 'k'}
+2026-03-12 20:30:03,183 - INFO - 127.0.0.1 - - [12/Mar/2026 20:30:03] "POST /chat HTTP/1.1" 200 -
+2026-03-12 20:30:03,382 - INFO - Employee Created: {'Employee_ID': 'EMP00019', 'Employee_Name': 'jghf', 'Department': 'ujh', 'Skill_Set': 'k'}
+2026-03-12 20:30:03,383 - INFO - 127.0.0.1 - - [12/Mar/2026 20:30:03] "POST /chat HTTP/1.1" 200 -
+2026-03-12 20:30:06,267 - INFO - 127.0.0.1 - - [12/Mar/2026 20:30:06] "GET / HTTP/1.1" 200 -
+2026-03-12 20:30:11,039 - INFO - Employee Created: {'Employee_ID': 'EMP00020', 'Employee_Name': 'u', 'Department': 'h', 'Skill_Set': 'l'}
+2026-03-12 20:30:11,039 - INFO - 127.0.0.1 - - [12/Mar/2026 20:30:11] "POST /chat HTTP/1.1" 200 -
+2026-03-12 20:30:23,744 - INFO - 127.0.0.1 - - [12/Mar/2026 20:30:23] "GET / HTTP/1.1" 200 -
+2026-03-12 20:30:29,448 - INFO - Employee Created: {'Employee_ID': 'EMP00021', 'Employee_Name': 'ikjuhg', 'Department': 'juhg', 'Skill_Set': 'iu'}
+2026-03-12 20:30:29,448 - INFO - 127.0.0.1 - - [12/Mar/2026 20:30:29] "POST /chat HTTP/1.1" 200 -
+2026-03-12 20:34:17,922 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2026-03-12 20:34:17,924 - INFO - [33mPress CTRL+C to quit[0m
+2026-03-12 20:34:17,928 - INFO -  * Restarting with stat
+2026-03-12 20:34:18,970 - WARNING -  * Debugger is active!
+2026-03-12 20:34:18,979 - INFO -  * Debugger PIN: 443-358-039
+2026-03-12 20:34:26,200 - INFO - 127.0.0.1 - - [12/Mar/2026 20:34:26] "GET / HTTP/1.1" 200 -
+2026-03-12 20:34:31,613 - INFO - Employee Created: {'Employee_ID': 'EMP00001', 'Employee_Name': 'jthg', 'Department': 'uhg', 'Skill_Set': 'khg'}
+2026-03-12 20:34:31,614 - INFO - 127.0.0.1 - - [12/Mar/2026 20:34:31] "POST /chat HTTP/1.1" 200 -
+2026-03-17 10:35:50,486 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2026-03-17 10:35:50,490 - INFO - [33mPress CTRL+C to quit[0m
+2026-03-17 10:35:50,513 - INFO -  * Restarting with stat
+2026-03-17 10:35:52,036 - WARNING -  * Debugger is active!
+2026-03-17 10:35:52,042 - INFO -  * Debugger PIN: 443-358-039
+2026-03-17 10:36:06,966 - INFO - 127.0.0.1 - - [17/Mar/2026 10:36:06] "GET / HTTP/1.1" 200 -
+2026-03-17 10:36:07,199 - INFO - 127.0.0.1 - - [17/Mar/2026 10:36:07] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2026-03-17 10:36:17,389 - INFO - Employee Created: {'Employee_ID': 'EMP00001', 'Employee_Name': 'surtesh', 'Department': 'it', 'Skill_Set': 'kpl'}
+2026-03-17 10:36:17,390 - INFO - 127.0.0.1 - - [17/Mar/2026 10:36:17] "POST /chat HTTP/1.1" 200 -
+2026-03-17 10:36:22,449 - INFO - Employee Created: {'Employee_ID': 'EMP00002', 'Employee_Name': 'surtesh', 'Department': 'it', 'Skill_Set': 'kpl'}
+2026-03-17 10:36:22,449 - INFO - 127.0.0.1 - - [17/Mar/2026 10:36:22] "POST /chat HTTP/1.1" 200 -
+2026-03-17 10:37:58,259 - INFO - 127.0.0.1 - - [17/Mar/2026 10:37:58] "GET / HTTP/1.1" 200 -
+2026-03-17 10:38:06,053 - INFO - Employee Created: {'Employee_ID': 'EMP00003', 'Employee_Name': 'suresh', 'Department': 'kok', 'Skill_Set': 'kjg'}
+2026-03-17 10:38:06,054 - INFO - 127.0.0.1 - - [17/Mar/2026 10:38:06] "POST /chat HTTP/1.1" 200 -
+2026-03-17 10:46:13,905 - INFO -  * Detected change in 'C:\\Users\\surik\\Desktop\\Python AI (FLM)\\projects\\Chatbot-Based Employee Management System\\database_mongo.py', reloading
+2026-03-17 10:46:14,191 - INFO -  * Restarting with stat
+2026-03-17 10:46:15,037 - WARNING -  * Debugger is active!
+2026-03-17 10:46:15,042 - INFO -  * Debugger PIN: 443-358-039
+2026-03-17 10:48:02,809 - INFO -  * Detected change in 'C:\\Users\\surik\\Desktop\\Python AI (FLM)\\projects\\Chatbot-Based Employee Management System\\app.py', reloading
+2026-03-17 10:48:02,904 - INFO -  * Restarting with stat
+2026-03-17 10:51:05,264 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2026-03-17 10:51:05,264 - INFO - [33mPress CTRL+C to quit[0m
+2026-03-17 10:51:05,267 - INFO -  * Restarting with stat
+2026-03-17 10:51:06,100 - WARNING -  * Debugger is active!
+2026-03-17 10:51:06,108 - INFO -  * Debugger PIN: 443-358-039
+2026-03-17 10:51:18,078 - INFO - 127.0.0.1 - - [17/Mar/2026 10:51:18] "GET / HTTP/1.1" 200 -
+2026-03-17 10:51:25,457 - INFO - Employee Created: {'Employee_ID': 'EMP00001', 'Employee_Name': 'suresh', 'Department': 'kpl', 'Skill_Set': 'kpljh'}
+2026-03-17 10:51:25,457 - INFO - 127.0.0.1 - - [17/Mar/2026 10:51:25] "POST /chat HTTP/1.1" 200 -
+2026-03-17 10:51:31,206 - INFO - Employee Created: {'Employee_ID': 'EMP00002', 'Employee_Name': 'suresh', 'Department': 'kpl', 'Skill_Set': 'kpljh'}
+2026-03-17 10:51:31,206 - INFO - 127.0.0.1 - - [17/Mar/2026 10:51:31] "POST /chat HTTP/1.1" 200 -
+2026-03-17 10:51:32,063 - INFO - Employee Created: {'Employee_ID': 'EMP00003', 'Employee_Name': 'suresh', 'Department': 'kpl', 'Skill_Set': 'kpljh'}
+2026-03-17 10:51:32,063 - INFO - 127.0.0.1 - - [17/Mar/2026 10:51:32] "POST /chat HTTP/1.1" 200 -
+2026-03-17 11:00:12,327 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2026-03-17 11:00:12,328 - INFO - [33mPress CTRL+C to quit[0m
+2026-03-17 11:00:12,330 - INFO -  * Restarting with stat
+2026-03-17 11:00:13,221 - WARNING -  * Debugger is active!
+2026-03-17 11:00:13,227 - INFO -  * Debugger PIN: 443-358-039
+2026-03-17 11:00:19,064 - INFO - 127.0.0.1 - - [17/Mar/2026 11:00:19] "GET / HTTP/1.1" 200 -
+2026-03-17 11:00:31,662 - INFO - Employee Created: {'Employee_ID': 'EMP00001', 'Employee_Name': 'suresh', 'Department': 'kpl', 'Skill_Set': 'pythin'}
+2026-03-17 11:00:31,663 - INFO - 127.0.0.1 - - [17/Mar/2026 11:00:31] "POST /chat HTTP/1.1" 200 -
+2026-03-17 11:00:32,978 - INFO - Employee Created: {'Employee_ID': 'EMP00002', 'Employee_Name': 'suresh', 'Department': 'kpl', 'Skill_Set': 'pythin'}
+2026-03-17 11:00:32,978 - INFO - 127.0.0.1 - - [17/Mar/2026 11:00:32] "POST /chat HTTP/1.1" 200 -
+2026-03-17 11:00:33,314 - INFO - Employee Created: {'Employee_ID': 'EMP00003', 'Employee_Name': 'suresh', 'Department': 'kpl', 'Skill_Set': 'pythin'}
+2026-03-17 11:00:33,315 - INFO - 127.0.0.1 - - [17/Mar/2026 11:00:33] "POST /chat HTTP/1.1" 200 -
+2026-03-17 11:00:33,507 - INFO - Employee Created: {'Employee_ID': 'EMP00004', 'Employee_Name': 'suresh', 'Department': 'kpl', 'Skill_Set': 'pythin'}
+2026-03-17 11:00:33,507 - INFO - 127.0.0.1 - - [17/Mar/2026 11:00:33] "POST /chat HTTP/1.1" 200 -
+2026-03-17 11:00:33,681 - INFO - Employee Created: {'Employee_ID': 'EMP00005', 'Employee_Name': 'suresh', 'Department': 'kpl', 'Skill_Set': 'pythin'}
+2026-03-17 11:00:33,681 - INFO - 127.0.0.1 - - [17/Mar/2026 11:00:33] "POST /chat HTTP/1.1" 200 -
+2026-03-17 11:00:33,849 - INFO - Employee Created: {'Employee_ID': 'EMP00006', 'Employee_Name': 'suresh', 'Department': 'kpl', 'Skill_Set': 'pythin'}
+2026-03-17 11:00:33,849 - INFO - 127.0.0.1 - - [17/Mar/2026 11:00:33] "POST /chat HTTP/1.1" 200 -
+2026-03-17 11:00:39,723 - INFO - Employee Created: {'Employee_ID': 'EMP00007', 'Employee_Name': 'suresh', 'Department': 'kpl', 'Skill_Set': 'pythinfghg'}
+2026-03-17 11:00:39,724 - INFO - 127.0.0.1 - - [17/Mar/2026 11:00:39] "POST /chat HTTP/1.1" 200 -
+2026-03-17 11:00:40,906 - INFO - 127.0.0.1 - - [17/Mar/2026 11:00:40] "GET /employees HTTP/1.1" 200 -
+2026-03-17 11:00:43,266 - INFO - Employee Created: {'Employee_ID': 'EMP00008', 'Employee_Name': 'suresh', 'Department': 'kpl', 'Skill_Set': 'pythinfghg'}
+2026-03-17 11:00:43,267 - INFO - 127.0.0.1 - - [17/Mar/2026 11:00:43] "POST /chat HTTP/1.1" 200 -
+2026-03-17 11:00:46,072 - INFO - 127.0.0.1 - - [17/Mar/2026 11:00:46] "GET /employees HTTP/1.1" 200 -
+2026-03-17 11:00:46,691 - INFO - 127.0.0.1 - - [17/Mar/2026 11:00:46] "GET /employees HTTP/1.1" 200 -
+2026-03-17 11:00:47,004 - INFO - 127.0.0.1 - - [17/Mar/2026 11:00:47] "GET /employees HTTP/1.1" 200 -
+2026-03-17 11:00:47,339 - INFO - 127.0.0.1 - - [17/Mar/2026 11:00:47] "GET /employees HTTP/1.1" 200 -
+2026-03-17 11:00:47,618 - INFO - 127.0.0.1 - - [17/Mar/2026 11:00:47] "GET /employees HTTP/1.1" 200 -
+2026-03-17 11:00:47,844 - INFO - 127.0.0.1 - - [17/Mar/2026 11:00:47] "GET /employees HTTP/1.1" 200 -
+2026-03-17 11:00:51,243 - INFO - 127.0.0.1 - - [17/Mar/2026 11:00:51] "GET /employees HTTP/1.1" 200 -
+2026-03-17 11:00:55,828 - INFO - 127.0.0.1 - - [17/Mar/2026 11:00:55] "GET /employees HTTP/1.1" 200 -
+2026-03-17 11:00:56,419 - INFO - 127.0.0.1 - - [17/Mar/2026 11:00:56] "GET /employees HTTP/1.1" 200 -
+2026-03-17 11:00:57,218 - INFO - Employee Created: {'Employee_ID': 'EMP00009', 'Employee_Name': 'suresh', 'Department': 'kpl', 'Skill_Set': 'pythinfghg'}
+2026-03-17 11:00:57,218 - INFO - 127.0.0.1 - - [17/Mar/2026 11:00:57] "POST /chat HTTP/1.1" 200 -
+2026-03-17 11:01:01,211 - INFO - 127.0.0.1 - - [17/Mar/2026 11:01:01] "GET /employees HTTP/1.1" 200 -
+2026-03-17 11:01:36,978 - INFO -  * Detected change in 'C:\\Users\\surik\\Desktop\\Python AI (FLM)\\projects\\Chatbot-Based Employee Management System\\app.py', reloading
+2026-03-17 11:01:37,366 - INFO -  * Restarting with stat
+2026-03-17 11:01:38,056 - WARNING -  * Debugger is active!
+2026-03-17 11:01:38,059 - INFO -  * Debugger PIN: 443-358-039
+2026-03-17 11:01:39,219 - INFO -  * Detected change in 'C:\\Users\\surik\\Desktop\\Python AI (FLM)\\projects\\Chatbot-Based Employee Management System\\app.py', reloading
+2026-03-17 11:01:39,652 - INFO -  * Restarting with stat
+2026-03-17 11:01:40,274 - WARNING -  * Debugger is active!
+2026-03-17 11:01:40,277 - INFO -  * Debugger PIN: 443-358-039
+2026-03-17 11:08:21,667 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2026-03-17 11:08:21,669 - INFO - [33mPress CTRL+C to quit[0m
+2026-03-17 11:08:21,672 - INFO -  * Restarting with stat
+2026-03-17 11:08:22,532 - WARNING -  * Debugger is active!
+2026-03-17 11:08:22,540 - INFO -  * Debugger PIN: 443-358-039
+2026-03-17 11:08:31,727 - INFO - 127.0.0.1 - - [17/Mar/2026 11:08:31] "GET / HTTP/1.1" 200 -
+2026-03-17 11:08:43,299 - INFO - Employee Created: {'Employee_ID': 'EMP00001', 'Employee_Name': 'suri', 'Department': 'lpi', 'Skill_Set': 'python'}
+2026-03-17 11:08:43,300 - INFO - 127.0.0.1 - - [17/Mar/2026 11:08:43] "POST /chat HTTP/1.1" 200 -
+2026-03-17 11:08:47,845 - INFO - Employee Created: {'Employee_ID': 'EMP00002', 'Employee_Name': 'sudrthri', 'Department': 'lpi', 'Skill_Set': 'python'}
+2026-03-17 11:08:47,846 - INFO - 127.0.0.1 - - [17/Mar/2026 11:08:47] "POST /chat HTTP/1.1" 200 -
+2026-03-17 11:08:49,347 - INFO - 127.0.0.1 - - [17/Mar/2026 11:08:49] "GET /employees HTTP/1.1" 200 -
+2026-03-17 11:08:50,519 - INFO - 127.0.0.1 - - [17/Mar/2026 11:08:50] "GET /employees HTTP/1.1" 200 -
+2026-03-17 11:08:50,926 - INFO - 127.0.0.1 - - [17/Mar/2026 11:08:50] "GET /employees HTTP/1.1" 200 -
+2026-03-17 11:08:51,270 - INFO - 127.0.0.1 - - [17/Mar/2026 11:08:51] "GET /employees HTTP/1.1" 200 -
+2026-03-17 11:08:51,550 - INFO - 127.0.0.1 - - [17/Mar/2026 11:08:51] "GET /employees HTTP/1.1" 200 -
+2026-03-17 11:08:51,758 - INFO - 127.0.0.1 - - [17/Mar/2026 11:08:51] "GET /employees HTTP/1.1" 200 -
+2026-03-17 11:08:51,958 - INFO - 127.0.0.1 - - [17/Mar/2026 11:08:51] "GET /employees HTTP/1.1" 200 -
+2026-03-17 11:08:52,134 - INFO - 127.0.0.1 - - [17/Mar/2026 11:08:52] "GET /employees HTTP/1.1" 200 -
+2026-03-17 11:08:52,470 - INFO - 127.0.0.1 - - [17/Mar/2026 11:08:52] "GET /employees HTTP/1.1" 200 -
+2026-03-17 11:08:52,799 - INFO - 127.0.0.1 - - [17/Mar/2026 11:08:52] "GET /employees HTTP/1.1" 200 -
+2026-03-17 11:08:52,990 - INFO - 127.0.0.1 - - [17/Mar/2026 11:08:52] "GET /employees HTTP/1.1" 200 -
+2026-03-17 11:08:53,182 - INFO - 127.0.0.1 - - [17/Mar/2026 11:08:53] "GET /employees HTTP/1.1" 200 -
+2026-03-17 11:08:53,366 - INFO - 127.0.0.1 - - [17/Mar/2026 11:08:53] "GET /employees HTTP/1.1" 200 -
+2026-03-17 11:08:53,550 - INFO - 127.0.0.1 - - [17/Mar/2026 11:08:53] "GET /employees HTTP/1.1" 200 -
+2026-03-17 11:08:53,887 - INFO - 127.0.0.1 - - [17/Mar/2026 11:08:53] "GET /employees HTTP/1.1" 200 -
+2026-03-17 11:08:54,190 - INFO - 127.0.0.1 - - [17/Mar/2026 11:08:54] "GET /employees HTTP/1.1" 200 -
+2026-03-17 11:08:54,414 - INFO - 127.0.0.1 - - [17/Mar/2026 11:08:54] "GET /employees HTTP/1.1" 200 -
+2026-03-17 11:08:54,614 - INFO - 127.0.0.1 - - [17/Mar/2026 11:08:54] "GET /employees HTTP/1.1" 200 -
+2026-03-17 11:08:54,798 - INFO - 127.0.0.1 - - [17/Mar/2026 11:08:54] "GET /employees HTTP/1.1" 200 -
+2026-03-17 11:08:54,995 - INFO - 127.0.0.1 - - [17/Mar/2026 11:08:54] "GET /employees HTTP/1.1" 200 -
+2026-03-17 11:08:55,198 - INFO - 127.0.0.1 - - [17/Mar/2026 11:08:55] "GET /employees HTTP/1.1" 200 -
+2026-03-17 11:10:04,973 - INFO - 127.0.0.1 - - [17/Mar/2026 11:10:04] "GET / HTTP/1.1" 200 -
+2026-03-17 11:15:55,393 - INFO -  * Detected change in 'C:\\Users\\surik\\Desktop\\Python AI (FLM)\\projects\\Chatbot-Based Employee Management System\\app.py', reloading
+2026-03-17 11:15:56,001 - INFO -  * Restarting with stat
+2026-03-17 11:15:57,182 - WARNING -  * Debugger is active!
+2026-03-17 11:15:57,188 - INFO -  * Debugger PIN: 443-358-039
+2026-03-17 11:18:17,797 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2026-03-17 11:18:17,797 - INFO - [33mPress CTRL+C to quit[0m
+2026-03-17 11:18:17,799 - INFO -  * Restarting with stat
+2026-03-17 11:18:18,676 - WARNING -  * Debugger is active!
+2026-03-17 11:18:18,683 - INFO -  * Debugger PIN: 443-358-039
+2026-03-17 11:18:23,874 - INFO - 127.0.0.1 - - [17/Mar/2026 11:18:23] "GET / HTTP/1.1" 200 -
+2026-03-17 11:18:30,989 - INFO - Employee Created: {'Employee_ID': 'EMP00001', 'Employee_Name': 'sur', 'Department': 'ki', 'Skill_Set': 'pyrfgh'}
+2026-03-17 11:18:30,989 - INFO - 127.0.0.1 - - [17/Mar/2026 11:18:30] "POST /chat HTTP/1.1" 200 -
+2026-03-17 11:18:34,546 - INFO - Employee Created: {'Employee_ID': 'EMP00002', 'Employee_Name': 'sur', 'Department': 'ki', 'Skill_Set': 'pyrfghh'}
+2026-03-17 11:18:34,546 - INFO - 127.0.0.1 - - [17/Mar/2026 11:18:34] "POST /chat HTTP/1.1" 200 -
+2026-03-17 11:18:37,697 - INFO - Employee Created: {'Employee_ID': 'EMP00003', 'Employee_Name': 'sur', 'Department': 'ki', 'Skill_Set': 'pyrfghhh'}
+2026-03-17 11:18:37,697 - INFO - 127.0.0.1 - - [17/Mar/2026 11:18:37] "POST /chat HTTP/1.1" 200 -
+2026-03-17 11:18:38,890 - INFO - 127.0.0.1 - - [17/Mar/2026 11:18:38] "GET /employees HTTP/1.1" 200 -
+2026-03-17 11:18:39,707 - INFO - 127.0.0.1 - - [17/Mar/2026 11:18:39] "GET /employees HTTP/1.1" 200 -
+2026-03-17 11:18:40,025 - INFO - 127.0.0.1 - - [17/Mar/2026 11:18:40] "GET /employees HTTP/1.1" 200 -
+2026-03-17 11:18:40,258 - INFO - 127.0.0.1 - - [17/Mar/2026 11:18:40] "GET /employees HTTP/1.1" 200 -
+2026-03-17 11:18:40,450 - INFO - 127.0.0.1 - - [17/Mar/2026 11:18:40] "GET /employees HTTP/1.1" 200 -
+2026-03-17 11:18:40,627 - INFO - 127.0.0.1 - - [17/Mar/2026 11:18:40] "GET /employees HTTP/1.1" 200 -
+2026-03-17 11:18:40,810 - INFO - 127.0.0.1 - - [17/Mar/2026 11:18:40] "GET /employees HTTP/1.1" 200 -
+2026-03-17 11:18:40,995 - INFO - 127.0.0.1 - - [17/Mar/2026 11:18:40] "GET /employees HTTP/1.1" 200 -
+2026-03-17 11:18:41,169 - INFO - 127.0.0.1 - - [17/Mar/2026 11:18:41] "GET /employees HTTP/1.1" 200 -
+2026-03-17 11:18:41,354 - INFO - 127.0.0.1 - - [17/Mar/2026 11:18:41] "GET /employees HTTP/1.1" 200 -
+2026-03-17 11:18:41,538 - INFO - 127.0.0.1 - - [17/Mar/2026 11:18:41] "GET /employees HTTP/1.1" 200 -
+2026-03-17 11:18:41,714 - INFO - 127.0.0.1 - - [17/Mar/2026 11:18:41] "GET /employees HTTP/1.1" 200 -
+2026-03-17 11:18:41,891 - INFO - 127.0.0.1 - - [17/Mar/2026 11:18:41] "GET /employees HTTP/1.1" 200 -
+2026-03-17 11:18:42,058 - INFO - 127.0.0.1 - - [17/Mar/2026 11:18:42] "GET /employees HTTP/1.1" 200 -
+2026-03-17 11:18:42,260 - INFO - 127.0.0.1 - - [17/Mar/2026 11:18:42] "GET /employees HTTP/1.1" 200 -
+2026-03-17 11:18:42,682 - INFO - 127.0.0.1 - - [17/Mar/2026 11:18:42] "GET /employees HTTP/1.1" 200 -
+2026-03-17 11:18:42,986 - INFO - 127.0.0.1 - - [17/Mar/2026 11:18:42] "GET /employees HTTP/1.1" 200 -
+2026-03-17 11:18:43,378 - INFO - 127.0.0.1 - - [17/Mar/2026 11:18:43] "GET /employees HTTP/1.1" 200 -
+2026-03-17 11:18:43,570 - INFO - 127.0.0.1 - - [17/Mar/2026 11:18:43] "GET /employees HTTP/1.1" 200 -
+2026-03-17 11:18:43,753 - INFO - 127.0.0.1 - - [17/Mar/2026 11:18:43] "GET /employees HTTP/1.1" 200 -
+2026-03-17 11:18:44,034 - INFO - 127.0.0.1 - - [17/Mar/2026 11:18:44] "GET /employees HTTP/1.1" 200 -
+2026-03-17 11:18:44,459 - INFO - 127.0.0.1 - - [17/Mar/2026 11:18:44] "GET /employees HTTP/1.1" 200 -
+2026-03-17 11:18:44,667 - INFO - 127.0.0.1 - - [17/Mar/2026 11:18:44] "GET /employees HTTP/1.1" 200 -
+2026-03-17 11:18:44,858 - INFO - 127.0.0.1 - - [17/Mar/2026 11:18:44] "GET /employees HTTP/1.1" 200 -
+2026-03-17 11:18:45,010 - INFO - 127.0.0.1 - - [17/Mar/2026 11:18:45] "GET /employees HTTP/1.1" 200 -
+2026-03-17 11:18:45,299 - INFO - 127.0.0.1 - - [17/Mar/2026 11:18:45] "GET /employees HTTP/1.1" 200 -
+2026-03-17 11:18:45,795 - INFO - 127.0.0.1 - - [17/Mar/2026 11:18:45] "GET /employees HTTP/1.1" 200 -
+2026-03-17 11:18:45,995 - INFO - 127.0.0.1 - - [17/Mar/2026 11:18:45] "GET /employees HTTP/1.1" 200 -
+2026-03-17 11:18:46,170 - INFO - 127.0.0.1 - - [17/Mar/2026 11:18:46] "GET /employees HTTP/1.1" 200 -
+2026-03-17 11:18:46,338 - INFO - 127.0.0.1 - - [17/Mar/2026 11:18:46] "GET /employees HTTP/1.1" 200 -
+2026-03-17 11:18:51,858 - INFO - 127.0.0.1 - - [17/Mar/2026 11:18:51] "GET / HTTP/1.1" 200 -
+2026-03-17 11:18:57,424 - INFO - Employee Created: {'Employee_ID': 'EMP00004', 'Employee_Name': 'gh', 'Department': 'hgfd', 'Skill_Set': 'uhfg'}
+2026-03-17 11:18:57,424 - INFO - 127.0.0.1 - - [17/Mar/2026 11:18:57] "POST /chat HTTP/1.1" 200 -
+2026-03-17 11:25:47,299 - INFO -  * Detected change in 'C:\\Users\\surik\\Desktop\\Python AI (FLM)\\projects\\Chatbot-Based Employee Management System\\config.py', reloading
+2026-03-17 11:25:47,961 - INFO -  * Restarting with stat
+2026-03-17 11:25:49,343 - WARNING -  * Debugger is active!
+2026-03-17 11:25:49,350 - INFO -  * Debugger PIN: 443-358-039
+2026-03-17 11:25:54,891 - INFO -  * Detected change in 'C:\\Users\\surik\\Desktop\\Python AI (FLM)\\projects\\Chatbot-Based Employee Management System\\database_mongo.py', reloading
+2026-03-17 11:25:55,507 - INFO -  * Restarting with stat
+2026-03-17 11:25:56,504 - WARNING -  * Debugger is active!
+2026-03-17 11:25:56,509 - INFO -  * Debugger PIN: 443-358-039
+2026-03-17 11:26:02,981 - INFO -  * Detected change in 'C:\\Users\\surik\\Desktop\\Python AI (FLM)\\projects\\Chatbot-Based Employee Management System\\employee_service.py', reloading
+2026-03-17 11:26:03,206 - INFO -  * Restarting with stat
+2026-03-17 11:26:03,985 - WARNING -  * Debugger is active!
+2026-03-17 11:26:03,989 - INFO -  * Debugger PIN: 443-358-039
+2026-03-17 11:26:12,623 - INFO -  * Detected change in 'C:\\Users\\surik\\Desktop\\Python AI (FLM)\\projects\\Chatbot-Based Employee Management System\\llm_parser.py', reloading
+2026-03-17 11:26:13,153 - INFO -  * Restarting with stat
+2026-03-17 11:26:13,991 - WARNING -  * Debugger is active!
+2026-03-17 11:26:13,995 - INFO -  * Debugger PIN: 443-358-039
+2026-03-17 11:26:17,305 - INFO -  * Detected change in 'C:\\Users\\surik\\Desktop\\Python AI (FLM)\\projects\\Chatbot-Based Employee Management System\\chatbot.py', reloading
+2026-03-17 11:26:17,902 - INFO -  * Restarting with stat
+2026-03-17 11:26:18,893 - WARNING -  * Debugger is active!
+2026-03-17 11:26:18,897 - INFO -  * Debugger PIN: 443-358-039
+2026-03-17 11:27:21,679 - INFO -  * Detected change in 'C:\\Users\\surik\\Desktop\\Python AI (FLM)\\projects\\Chatbot-Based Employee Management System\\app.py', reloading
+2026-03-17 11:27:22,703 - INFO -  * Restarting with stat
+2026-03-17 11:27:25,995 - WARNING -  * Debugger is active!
+2026-03-17 11:27:25,999 - INFO -  * Debugger PIN: 443-358-039
+2026-03-17 11:28:32,028 - INFO -  * Detected change in 'C:\\Users\\surik\\Desktop\\Python AI (FLM)\\projects\\Chatbot-Based Employee Management System\\app.py', reloading
+2026-03-17 11:28:32,634 - INFO -  * Restarting with stat
+2026-03-17 11:28:33,692 - WARNING -  * Debugger is active!
+2026-03-17 11:28:33,698 - INFO -  * Debugger PIN: 443-358-039
+2026-03-17 11:28:40,432 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2026-03-17 11:28:40,433 - INFO - [33mPress CTRL+C to quit[0m
+2026-03-17 11:28:40,437 - INFO -  * Restarting with stat
+2026-03-17 11:28:41,738 - WARNING -  * Debugger is active!
+2026-03-17 11:28:41,743 - INFO -  * Debugger PIN: 443-358-039
+2026-03-17 11:28:49,856 - INFO - 127.0.0.1 - - [17/Mar/2026 11:28:49] "GET / HTTP/1.1" 200 -
+2026-03-17 11:28:50,076 - INFO - 127.0.0.1 - - [17/Mar/2026 11:28:50] "GET /employees?page=1&limit=10 HTTP/1.1" 200 -
+2026-03-17 11:29:14,938 - INFO - Employee Created: {'employee_id': 'EMP-8AD1F41A4A', 'name': 'B Srishanth', 'department': 'IT', 'skills': ['Python'], 'created_at': '2026-03-17T05:59:14.938063+00:00'}
+2026-03-17 11:29:14,975 - INFO - 127.0.0.1 - - [17/Mar/2026 11:29:14] "[35m[1mPOST /employees HTTP/1.1[0m" 500 -
+2026-03-17 11:29:25,311 - INFO - Employee Created: {'employee_id': 'EMP-DD8843B344', 'name': 'B Srishanthaaa', 'department': 'ITI', 'skills': ['Python'], 'created_at': '2026-03-17T05:59:25.310987+00:00'}
+2026-03-17 11:29:25,327 - INFO - 127.0.0.1 - - [17/Mar/2026 11:29:25] "[35m[1mPOST /employees HTTP/1.1[0m" 500 -
+2026-03-17 11:29:39,574 - INFO - Employee Created: {'employee_id': 'EMP-CA3AE953F0', 'name': 'rahul', 'department': 'GHU', 'skills': ['REACt'], 'created_at': '2026-03-17T05:59:39.574147+00:00'}
+2026-03-17 11:29:39,590 - INFO - 127.0.0.1 - - [17/Mar/2026 11:29:39] "[35m[1mPOST /chat HTTP/1.1[0m" 500 -
+2026-03-17 11:29:45,099 - INFO - 127.0.0.1 - - [17/Mar/2026 11:29:45] "GET /employees?page=1&limit=10&name=rahul HTTP/1.1" 200 -
+2026-03-17 11:29:52,587 - INFO - 127.0.0.1 - - [17/Mar/2026 11:29:52] "GET /employees?page=1&limit=10&name=suresh HTTP/1.1" 200 -
+2026-03-17 11:29:58,664 - INFO - 127.0.0.1 - - [17/Mar/2026 11:29:58] "GET /employees?page=1&limit=10&name=b HTTP/1.1" 200 -
+2026-03-17 11:30:25,615 - INFO - Employee Created: {'employee_id': 'EMP-51DD2C1EC6', 'name': 'rahul', 'department': 'GHU', 'skills': ['REACtg'], 'created_at': '2026-03-17T06:00:25.615430+00:00'}
+2026-03-17 11:30:25,634 - INFO - 127.0.0.1 - - [17/Mar/2026 11:30:25] "[35m[1mPOST /chat HTTP/1.1[0m" 500 -
+2026-03-17 11:30:28,150 - INFO - Employee Created: {'employee_id': 'EMP-6B007DB8D9', 'name': 'rahul', 'department': 'GHU', 'skills': ['REACtgf'], 'created_at': '2026-03-17T06:00:28.150119+00:00'}
+2026-03-17 11:30:28,163 - INFO - 127.0.0.1 - - [17/Mar/2026 11:30:28] "[35m[1mPOST /chat HTTP/1.1[0m" 500 -
+2026-03-17 11:30:30,206 - INFO - Employee Created: {'employee_id': 'EMP-128221C8BE', 'name': 'rahul', 'department': 'GHU', 'skills': ['REACtgfse'], 'created_at': '2026-03-17T06:00:30.206449+00:00'}
+2026-03-17 11:30:30,221 - INFO - 127.0.0.1 - - [17/Mar/2026 11:30:30] "[35m[1mPOST /chat HTTP/1.1[0m" 500 -
+2026-03-17 11:30:32,350 - INFO - Employee Created: {'employee_id': 'EMP-66ABB53C33', 'name': 'rahul', 'department': 'GHU', 'skills': ['REACtgfsesdfd'], 'created_at': '2026-03-17T06:00:32.350234+00:00'}
+2026-03-17 11:30:32,369 - INFO - 127.0.0.1 - - [17/Mar/2026 11:30:32] "[35m[1mPOST /chat HTTP/1.1[0m" 500 -
+2026-03-17 11:30:35,359 - INFO - 127.0.0.1 - - [17/Mar/2026 11:30:35] "GET / HTTP/1.1" 200 -
+2026-03-17 11:30:35,417 - INFO - 127.0.0.1 - - [17/Mar/2026 11:30:35] "GET /employees?page=1&limit=10 HTTP/1.1" 200 -
+2026-03-17 11:30:40,234 - INFO - 127.0.0.1 - - [17/Mar/2026 11:30:40] "GET /employees?page=1&limit=10&name=b HTTP/1.1" 200 -
+2026-03-17 11:30:46,089 - INFO - 127.0.0.1 - - [17/Mar/2026 11:30:46] "GET /employees?page=1&limit=10&name=r HTTP/1.1" 200 -
+2026-03-17 11:31:21,936 - INFO - 127.0.0.1 - - [17/Mar/2026 11:31:21] "GET / HTTP/1.1" 200 -
+2026-03-17 11:31:21,983 - INFO - 127.0.0.1 - - [17/Mar/2026 11:31:21] "GET /employees?page=1&limit=10 HTTP/1.1" 200 -
+2026-03-17 11:31:41,293 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2026-03-17 11:31:41,293 - INFO - [33mPress CTRL+C to quit[0m
+2026-03-17 11:31:41,296 - INFO -  * Restarting with stat
+2026-03-17 11:31:42,221 - WARNING -  * Debugger is active!
+2026-03-17 11:31:42,226 - INFO -  * Debugger PIN: 443-358-039
+2026-03-17 11:31:47,159 - INFO - 127.0.0.1 - - [17/Mar/2026 11:31:47] "GET / HTTP/1.1" 200 -
+2026-03-17 11:31:47,259 - INFO - 127.0.0.1 - - [17/Mar/2026 11:31:47] "GET /employees?page=1&limit=10 HTTP/1.1" 200 -
+2026-03-17 11:31:51,026 - INFO - 127.0.0.1 - - [17/Mar/2026 11:31:51] "GET /employees?page=1&limit=10&name=r HTTP/1.1" 200 -
+2026-03-17 11:36:41,178 - INFO -  * Detected change in 'C:\\Users\\surik\\Desktop\\Python AI (FLM)\\projects\\Chatbot-Based Employee Management System\\database_mongo.py', reloading
+2026-03-17 11:41:04,430 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2026-03-17 11:41:04,430 - INFO - [33mPress CTRL+C to quit[0m
+2026-03-17 11:41:04,432 - INFO -  * Restarting with stat
+2026-03-17 11:41:05,490 - WARNING -  * Debugger is active!
+2026-03-17 11:41:05,497 - INFO -  * Debugger PIN: 443-358-039
+2026-03-17 11:41:14,066 - INFO - 127.0.0.1 - - [17/Mar/2026 11:41:14] "GET / HTTP/1.1" 200 -
+2026-03-17 11:41:14,260 - INFO - 127.0.0.1 - - [17/Mar/2026 11:41:14] "GET /employees?page=1&limit=10 HTTP/1.1" 200 -
+2026-03-17 11:41:24,566 - INFO - Employee Created: {'employee_id': 'EMP-BCF8A6E157', 'name': 'kpl', 'department': 'ds', 'skills': ['dccc'], 'created_at': '2026-03-17T06:11:24.566911+00:00'}
+2026-03-17 11:41:24,605 - INFO - 127.0.0.1 - - [17/Mar/2026 11:41:24] "[35m[1mPOST /employees HTTP/1.1[0m" 500 -
+2026-03-17 11:41:30,049 - INFO - 127.0.0.1 - - [17/Mar/2026 11:41:30] "GET /employees?page=1&limit=10&name=s HTTP/1.1" 200 -
+2026-03-17 11:41:37,382 - INFO - 127.0.0.1 - - [17/Mar/2026 11:41:37] "GET /employees?page=1&limit=10&name=k HTTP/1.1" 200 -
+2026-03-17 11:41:47,133 - INFO - 127.0.0.1 - - [17/Mar/2026 11:41:47] "GET /employees?page=1&limit=10&name=kpl HTTP/1.1" 200 -
+2026-03-17 11:41:53,459 - INFO - Employee Created: {'employee_id': 'EMP-EB065C31A6', 'name': 'kpl', 'department': 'dsds', 'skills': ['dcccs'], 'created_at': '2026-03-17T06:11:53.459239+00:00'}
+2026-03-17 11:41:53,474 - INFO - 127.0.0.1 - - [17/Mar/2026 11:41:53] "[35m[1mPOST /employees HTTP/1.1[0m" 500 -
+2026-03-17 11:41:55,845 - INFO - 127.0.0.1 - - [17/Mar/2026 11:41:55] "GET /employees?page=1&limit=10&name=kpl HTTP/1.1" 200 -
+2026-03-17 11:46:06,172 - INFO - 127.0.0.1 - - [17/Mar/2026 11:46:06] "DELETE /employees/EMP-BCF8A6E157 HTTP/1.1" 200 -
+2026-03-17 11:46:06,185 - INFO - 127.0.0.1 - - [17/Mar/2026 11:46:06] "GET /employees?page=1&limit=10&name=kpl HTTP/1.1" 200 -
+2026-03-17 11:46:07,576 - INFO - 127.0.0.1 - - [17/Mar/2026 11:46:07] "DELETE /employees/EMP-EB065C31A6 HTTP/1.1" 200 -
+2026-03-17 11:46:07,584 - INFO - 127.0.0.1 - - [17/Mar/2026 11:46:07] "GET /employees?page=1&limit=10&name=kpl HTTP/1.1" 200 -
+2026-03-17 11:46:12,719 - INFO - 127.0.0.1 - - [17/Mar/2026 11:46:12] "GET /employees?page=1&limit=10&name=s HTTP/1.1" 200 -
+2026-03-17 11:46:14,177 - INFO - 127.0.0.1 - - [17/Mar/2026 11:46:14] "DELETE /employees/EMP-8AD1F41A4A HTTP/1.1" 200 -
+2026-03-17 11:46:14,185 - INFO - 127.0.0.1 - - [17/Mar/2026 11:46:14] "GET /employees?page=1&limit=10&name=s HTTP/1.1" 200 -
+2026-03-17 11:46:14,860 - INFO - 127.0.0.1 - - [17/Mar/2026 11:46:14] "DELETE /employees/EMP-DD8843B344 HTTP/1.1" 200 -
+2026-03-17 11:46:14,868 - INFO - 127.0.0.1 - - [17/Mar/2026 11:46:14] "GET /employees?page=1&limit=10&name=s HTTP/1.1" 200 -
+2026-03-17 11:46:17,199 - INFO - 127.0.0.1 - - [17/Mar/2026 11:46:17] "GET /employees?page=1&limit=10&name=s HTTP/1.1" 200 -
+2026-03-17 11:46:17,814 - INFO - 127.0.0.1 - - [17/Mar/2026 11:46:17] "GET /employees?page=1&limit=10&name=s HTTP/1.1" 200 -
+2026-03-17 11:46:20,400 - INFO - 127.0.0.1 - - [17/Mar/2026 11:46:20] "GET /employees?page=1&limit=10&name=k HTTP/1.1" 200 -
+2026-03-17 11:46:24,234 - INFO - 127.0.0.1 - - [17/Mar/2026 11:46:24] "GET /employees?page=1&limit=10&name=a HTTP/1.1" 200 -
+2026-03-17 11:46:28,141 - INFO - 127.0.0.1 - - [17/Mar/2026 11:46:28] "DELETE /employees/EMP-CA3AE953F0 HTTP/1.1" 200 -
+2026-03-17 11:46:28,150 - INFO - 127.0.0.1 - - [17/Mar/2026 11:46:28] "GET /employees?page=1&limit=10&name=a HTTP/1.1" 200 -
+2026-03-17 11:46:29,245 - INFO - 127.0.0.1 - - [17/Mar/2026 11:46:29] "DELETE /employees/EMP-51DD2C1EC6 HTTP/1.1" 200 -
+2026-03-17 11:46:29,257 - INFO - 127.0.0.1 - - [17/Mar/2026 11:46:29] "GET /employees?page=1&limit=10&name=a HTTP/1.1" 200 -
+2026-03-17 11:46:29,585 - INFO - 127.0.0.1 - - [17/Mar/2026 11:46:29] "DELETE /employees/EMP-6B007DB8D9 HTTP/1.1" 200 -
+2026-03-17 11:46:29,594 - INFO - 127.0.0.1 - - [17/Mar/2026 11:46:29] "GET /employees?page=1&limit=10&name=a HTTP/1.1" 200 -
+2026-03-17 11:46:29,869 - INFO - 127.0.0.1 - - [17/Mar/2026 11:46:29] "DELETE /employees/EMP-128221C8BE HTTP/1.1" 200 -
+2026-03-17 11:46:29,877 - INFO - 127.0.0.1 - - [17/Mar/2026 11:46:29] "GET /employees?page=1&limit=10&name=a HTTP/1.1" 200 -
+2026-03-17 11:46:31,220 - INFO - 127.0.0.1 - - [17/Mar/2026 11:46:31] "DELETE /employees/EMP-66ABB53C33 HTTP/1.1" 200 -
+2026-03-17 11:46:31,232 - INFO - 127.0.0.1 - - [17/Mar/2026 11:46:31] "GET /employees?page=1&limit=10&name=a HTTP/1.1" 200 -
+2026-03-17 11:46:34,816 - INFO - 127.0.0.1 - - [17/Mar/2026 11:46:34] "GET /employees?page=1&limit=10&name=b HTTP/1.1" 200 -
+2026-03-17 11:46:38,506 - INFO - 127.0.0.1 - - [17/Mar/2026 11:46:38] "GET /employees?page=1&limit=10&name=c HTTP/1.1" 200 -
+2026-03-17 11:46:41,983 - INFO - 127.0.0.1 - - [17/Mar/2026 11:46:41] "GET /employees?page=1&limit=10&name=d HTTP/1.1" 200 -
+2026-03-17 11:46:46,583 - INFO - 127.0.0.1 - - [17/Mar/2026 11:46:46] "GET /employees?page=1&limit=10&name=e HTTP/1.1" 200 -
+2026-03-17 11:46:50,871 - INFO - 127.0.0.1 - - [17/Mar/2026 11:46:50] "GET /employees?page=1&limit=10&name=f HTTP/1.1" 200 -
+2026-03-17 11:46:54,543 - INFO - 127.0.0.1 - - [17/Mar/2026 11:46:54] "GET /employees?page=1&limit=10&name=d HTTP/1.1" 200 -
+2026-03-17 11:46:58,375 - INFO - 127.0.0.1 - - [17/Mar/2026 11:46:58] "GET /employees?page=1&limit=10&name=e HTTP/1.1" 200 -
+2026-03-17 11:47:01,127 - INFO - 127.0.0.1 - - [17/Mar/2026 11:47:01] "GET /employees?page=1&limit=10&name=f HTTP/1.1" 200 -
+2026-03-17 11:47:01,302 - INFO - 127.0.0.1 - - [17/Mar/2026 11:47:01] "GET /employees?page=1&limit=10&name=f HTTP/1.1" 200 -
+2026-03-17 11:47:03,934 - INFO - 127.0.0.1 - - [17/Mar/2026 11:47:03] "GET /employees?page=1&limit=10&name=g HTTP/1.1" 200 -
+2026-03-17 11:47:06,572 - INFO - 127.0.0.1 - - [17/Mar/2026 11:47:06] "GET /employees?page=1&limit=10&name=hh HTTP/1.1" 200 -
+2026-03-17 11:47:12,450 - INFO - 127.0.0.1 - - [17/Mar/2026 11:47:12] "GET /employees?page=1&limit=10&name=i HTTP/1.1" 200 -
+2026-03-17 11:47:15,751 - INFO - 127.0.0.1 - - [17/Mar/2026 11:47:15] "GET /employees?page=1&limit=10&name=j HTTP/1.1" 200 -
+2026-03-17 11:47:18,215 - INFO - 127.0.0.1 - - [17/Mar/2026 11:47:18] "GET /employees?page=1&limit=10&name=k HTTP/1.1" 200 -
+2026-03-17 11:47:20,887 - INFO - 127.0.0.1 - - [17/Mar/2026 11:47:20] "GET /employees?page=1&limit=10&name=l HTTP/1.1" 200 -
+2026-03-17 11:47:24,304 - INFO - 127.0.0.1 - - [17/Mar/2026 11:47:24] "GET /employees?page=1&limit=10&name=m HTTP/1.1" 200 -
+2026-03-17 11:47:26,618 - INFO - 127.0.0.1 - - [17/Mar/2026 11:47:26] "GET /employees?page=1&limit=10&name=n HTTP/1.1" 200 -
+2026-03-17 11:47:29,374 - INFO - 127.0.0.1 - - [17/Mar/2026 11:47:29] "GET /employees?page=1&limit=10&name=o HTTP/1.1" 200 -
+2026-03-17 11:47:33,687 - INFO - 127.0.0.1 - - [17/Mar/2026 11:47:33] "GET /employees?page=1&limit=10&name=p HTTP/1.1" 200 -
+2026-03-17 11:47:36,583 - INFO - 127.0.0.1 - - [17/Mar/2026 11:47:36] "GET /employees?page=1&limit=10&name=q HTTP/1.1" 200 -
+2026-03-17 11:47:39,047 - INFO - 127.0.0.1 - - [17/Mar/2026 11:47:39] "GET /employees?page=1&limit=10&name=r HTTP/1.1" 200 -
+2026-03-17 11:47:41,655 - INFO - 127.0.0.1 - - [17/Mar/2026 11:47:41] "GET /employees?page=1&limit=10&name=s HTTP/1.1" 200 -
+2026-03-17 11:47:44,111 - INFO - 127.0.0.1 - - [17/Mar/2026 11:47:44] "GET /employees?page=1&limit=10&name=t HTTP/1.1" 200 -
+2026-03-17 11:47:44,582 - INFO - 127.0.0.1 - - [17/Mar/2026 11:47:44] "GET /employees?page=1&limit=10&name=t HTTP/1.1" 200 -
+2026-03-17 11:47:44,751 - INFO - 127.0.0.1 - - [17/Mar/2026 11:47:44] "GET /employees?page=1&limit=10&name=t HTTP/1.1" 200 -
+2026-03-17 11:47:49,928 - INFO - 127.0.0.1 - - [17/Mar/2026 11:47:49] "GET /employees?page=1&limit=10&name=u HTTP/1.1" 200 -
+2026-03-17 11:47:52,631 - INFO - 127.0.0.1 - - [17/Mar/2026 11:47:52] "GET /employees?page=1&limit=10&name=v HTTP/1.1" 200 -
+2026-03-17 11:47:55,583 - INFO - 127.0.0.1 - - [17/Mar/2026 11:47:55] "GET /employees?page=1&limit=10&name=w HTTP/1.1" 200 -
+2026-03-17 11:47:58,967 - INFO - 127.0.0.1 - - [17/Mar/2026 11:47:58] "GET /employees?page=1&limit=10&name=x HTTP/1.1" 200 -
+2026-03-17 11:48:01,433 - INFO - 127.0.0.1 - - [17/Mar/2026 11:48:01] "GET /employees?page=1&limit=10&name=y HTTP/1.1" 200 -
+2026-03-17 11:48:05,743 - INFO - 127.0.0.1 - - [17/Mar/2026 11:48:05] "GET /employees?page=1&limit=10&name=y HTTP/1.1" 200 -
+2026-03-17 11:48:10,448 - INFO - 127.0.0.1 - - [17/Mar/2026 11:48:10] "GET /employees?page=1&limit=10&skill=p HTTP/1.1" 200 -
+2026-03-17 11:48:16,423 - INFO - Employee Created: {'employee_id': 'EMP-2921C4F6B4', 'name': 'kpl', 'department': 'dsds', 'skills': ['dcccs'], 'created_at': '2026-03-17T06:18:16.423458+00:00'}
+2026-03-17 11:48:16,449 - INFO - 127.0.0.1 - - [17/Mar/2026 11:48:16] "[35m[1mPOST /employees HTTP/1.1[0m" 500 -
+2026-03-17 11:48:21,528 - INFO - 127.0.0.1 - - [17/Mar/2026 11:48:21] "GET /employees?page=1&limit=10&name=k HTTP/1.1" 200 -
+2026-03-17 11:54:19,547 - INFO -  * Detected change in 'C:\\Users\\surik\\Desktop\\Python AI (FLM)\\projects\\Chatbot-Based Employee Management System\\employee_service.py', reloading
+2026-03-17 11:54:20,510 - INFO -  * Restarting with stat
+2026-03-17 11:54:21,581 - WARNING -  * Debugger is active!
+2026-03-17 11:54:21,586 - INFO -  * Debugger PIN: 443-358-039
+2026-03-17 11:54:26,966 - INFO -  * Detected change in 'C:\\Users\\surik\\Desktop\\Python AI (FLM)\\projects\\Chatbot-Based Employee Management System\\employee_service.py', reloading
+2026-03-17 11:54:27,293 - INFO -  * Restarting with stat
+2026-03-17 11:54:28,155 - WARNING -  * Debugger is active!
+2026-03-17 11:54:28,158 - INFO -  * Debugger PIN: 443-358-039
+2026-03-17 11:54:30,423 - INFO - 127.0.0.1 - - [17/Mar/2026 11:54:30] "GET / HTTP/1.1" 200 -
+2026-03-17 11:54:30,651 - INFO - 127.0.0.1 - - [17/Mar/2026 11:54:30] "GET /employees?page=1&limit=10 HTTP/1.1" 200 -
+2026-03-17 11:54:32,153 - INFO - 127.0.0.1 - - [17/Mar/2026 11:54:32] "GET / HTTP/1.1" 200 -
+2026-03-17 11:54:32,186 - INFO - 127.0.0.1 - - [17/Mar/2026 11:54:32] "GET /employees?page=1&limit=10 HTTP/1.1" 200 -
+2026-03-17 11:54:43,737 - INFO - 127.0.0.1 - - [17/Mar/2026 11:54:43] "[35m[1mPOST /employees HTTP/1.1[0m" 500 -
+2026-03-17 11:54:47,874 - INFO - 127.0.0.1 - - [17/Mar/2026 11:54:47] "GET /employees?page=1&limit=10&name=su HTTP/1.1" 200 -
+2026-03-17 11:54:55,936 - INFO - 127.0.0.1 - - [17/Mar/2026 11:54:55] "[31m[1mPOST /chat HTTP/1.1[0m" 400 -
+2026-03-17 11:54:58,130 - INFO - 127.0.0.1 - - [17/Mar/2026 11:54:58] "GET /employees?page=1&limit=10&name=su HTTP/1.1" 200 -
+2026-03-17 11:55:04,530 - INFO - 127.0.0.1 - - [17/Mar/2026 11:55:04] "GET /employees?page=1&limit=10&name=s HTTP/1.1" 200 -
+2026-03-17 11:55:10,479 - INFO -  * Detected change in 'C:\\Users\\surik\\Desktop\\Python AI (FLM)\\projects\\Chatbot-Based Employee Management System\\employee_service.py', reloading
+2026-03-17 11:55:10,869 - INFO -  * Restarting with stat
+2026-03-17 11:55:11,663 - WARNING -  * Debugger is active!
+2026-03-17 11:55:11,667 - INFO -  * Debugger PIN: 443-358-039
+2026-03-17 11:55:16,550 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2026-03-17 11:55:16,550 - INFO - [33mPress CTRL+C to quit[0m
+2026-03-17 11:55:16,555 - INFO -  * Restarting with stat
+2026-03-17 11:55:17,424 - WARNING -  * Debugger is active!
+2026-03-17 11:55:17,429 - INFO -  * Debugger PIN: 443-358-039
+2026-03-17 11:55:26,171 - INFO - 127.0.0.1 - - [17/Mar/2026 11:55:26] "GET / HTTP/1.1" 200 -
+2026-03-17 11:55:26,245 - INFO - 127.0.0.1 - - [17/Mar/2026 11:55:26] "GET /employees?page=1&limit=10 HTTP/1.1" 200 -
+2026-03-17 11:55:35,100 - INFO - 127.0.0.1 - - [17/Mar/2026 11:55:35] "[35m[1mPOST /employees HTTP/1.1[0m" 500 -
+2026-03-17 11:55:37,731 - INFO - 127.0.0.1 - - [17/Mar/2026 11:55:37] "GET /employees?page=1&limit=10&name=t HTTP/1.1" 200 -
+2026-03-17 11:55:41,994 - INFO - 127.0.0.1 - - [17/Mar/2026 11:55:41] "GET /employees?page=1&limit=10&name=T HTTP/1.1" 200 -
+2026-03-17 11:57:52,628 - INFO -  * Detected change in 'C:\\Users\\surik\\Desktop\\Python AI (FLM)\\projects\\Chatbot-Based Employee Management System\\employee_service.py', reloading
+2026-03-17 11:57:53,418 - INFO -  * Restarting with stat
+2026-03-17 11:57:54,392 - WARNING -  * Debugger is active!
+2026-03-17 11:57:54,396 - INFO -  * Debugger PIN: 443-358-039
+2026-03-17 11:57:59,326 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2026-03-17 11:57:59,326 - INFO - [33mPress CTRL+C to quit[0m
+2026-03-17 11:57:59,330 - INFO -  * Restarting with stat
+2026-03-17 11:58:00,402 - WARNING -  * Debugger is active!
+2026-03-17 11:58:00,406 - INFO -  * Debugger PIN: 443-358-039
+2026-03-17 11:58:06,983 - INFO - 127.0.0.1 - - [17/Mar/2026 11:58:06] "GET / HTTP/1.1" 200 -
+2026-03-17 11:58:07,178 - INFO - 127.0.0.1 - - [17/Mar/2026 11:58:07] "GET /employees?page=1&limit=10 HTTP/1.1" 200 -
+2026-03-17 11:58:11,822 - INFO - 127.0.0.1 - - [17/Mar/2026 11:58:11] "GET /employees?page=1&limit=10&name=t HTTP/1.1" 200 -
+2026-03-17 11:58:13,775 - INFO - 127.0.0.1 - - [17/Mar/2026 11:58:13] "GET /employees?page=1&limit=10&name=t HTTP/1.1" 200 -
+2026-03-17 11:58:19,727 - INFO - Employee Created: {'employee_id': 'EMP000001', 'name': 'M Umesh', 'department': 'df', 'skills': ['sdfdvc'], 'created_at': '2026-03-17T06:28:19.726938+00:00'}
+2026-03-17 11:58:19,751 - INFO - 127.0.0.1 - - [17/Mar/2026 11:58:19] "[35m[1mPOST /employees HTTP/1.1[0m" 500 -
+2026-03-17 11:58:23,245 - INFO - 127.0.0.1 - - [17/Mar/2026 11:58:23] "GET /employees?page=1&limit=10&name=m HTTP/1.1" 200 -
+2026-03-17 11:58:29,364 - INFO - 127.0.0.1 - - [17/Mar/2026 11:58:29] "GET /employees?page=1&limit=10&name=m HTTP/1.1" 200 -
+2026-03-17 11:58:32,670 - INFO - Employee Created: {'employee_id': 'EMP000002', 'name': 'M Umesha', 'department': 'df', 'skills': ['sdfdvc'], 'created_at': '2026-03-17T06:28:32.670297+00:00'}
+2026-03-17 11:58:32,683 - INFO - 127.0.0.1 - - [17/Mar/2026 11:58:32] "[35m[1mPOST /employees HTTP/1.1[0m" 500 -
+2026-03-17 11:58:33,819 - INFO - 127.0.0.1 - - [17/Mar/2026 11:58:33] "GET /employees?page=1&limit=10&name=m HTTP/1.1" 200 -
+2026-03-17 11:58:42,699 - INFO - Employee Created: {'employee_id': 'EMP000003', 'name': 'sure', 'department': 'df', 'skills': ['sdfdvc'], 'created_at': '2026-03-17T06:28:42.699377+00:00'}
+2026-03-17 11:58:42,715 - INFO - 127.0.0.1 - - [17/Mar/2026 11:58:42] "[35m[1mPOST /employees HTTP/1.1[0m" 500 -
+2026-03-17 11:58:45,199 - INFO - 127.0.0.1 - - [17/Mar/2026 11:58:45] "GET /employees?page=1&limit=10&name=s HTTP/1.1" 200 -
+2026-03-17 11:58:50,023 - INFO - 127.0.0.1 - - [17/Mar/2026 11:58:50] "GET / HTTP/1.1" 200 -
+2026-03-17 11:58:50,059 - INFO - 127.0.0.1 - - [17/Mar/2026 11:58:50] "GET /employees?page=1&limit=10 HTTP/1.1" 200 -
+2026-03-17 11:58:52,483 - INFO - 127.0.0.1 - - [17/Mar/2026 11:58:52] "GET /employees?page=1&limit=10&name=s HTTP/1.1" 200 -
+2026-03-17 12:00:00,018 - INFO - 127.0.0.1 - - [17/Mar/2026 12:00:00] "GET /employees?page=1&limit=10&name=su HTTP/1.1" 200 -
+2026-03-17 12:00:06,021 - INFO - 127.0.0.1 - - [17/Mar/2026 12:00:06] "GET /employees?page=1&limit=10&name=s HTTP/1.1" 200 -
+2026-03-17 12:00:13,493 - INFO - 127.0.0.1 - - [17/Mar/2026 12:00:13] "GET /employees?page=1&limit=10&name=u HTTP/1.1" 200 -
+2026-03-17 12:00:15,612 - INFO - 127.0.0.1 - - [17/Mar/2026 12:00:15] "GET /employees?page=1&limit=10&name=u HTTP/1.1" 200 -
+2026-03-17 12:00:21,371 - INFO - 127.0.0.1 - - [17/Mar/2026 12:00:21] "GET /employees?page=1&limit=10&name=m HTTP/1.1" 200 -
+2026-03-17 12:00:32,884 - INFO - 127.0.0.1 - - [17/Mar/2026 12:00:32] "GET /employees?page=1&limit=10&name=sure HTTP/1.1" 200 -
+2026-03-17 12:02:43,440 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2026-03-17 12:02:43,440 - INFO - [33mPress CTRL+C to quit[0m
+2026-03-17 12:02:43,445 - INFO -  * Restarting with stat
+2026-03-17 12:02:44,302 - WARNING -  * Debugger is active!
+2026-03-17 12:02:44,306 - INFO -  * Debugger PIN: 443-358-039
+2026-03-17 12:02:53,310 - INFO - 127.0.0.1 - - [17/Mar/2026 12:02:53] "GET / HTTP/1.1" 200 -
+2026-03-17 12:07:51,987 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2026-03-17 12:07:51,987 - INFO - [33mPress CTRL+C to quit[0m
+2026-03-17 12:07:51,993 - INFO -  * Restarting with stat
+2026-03-17 12:07:53,399 - WARNING -  * Debugger is active!
+2026-03-17 12:07:53,408 - INFO -  * Debugger PIN: 443-358-039
+2026-03-17 12:07:58,151 - INFO - 127.0.0.1 - - [17/Mar/2026 12:07:58] "GET / HTTP/1.1" 200 -
+2026-03-17 12:07:58,292 - INFO - 127.0.0.1 - - [17/Mar/2026 12:07:58] "GET /employees?page=1&limit=10 HTTP/1.1" 200 -
+2026-03-17 12:08:06,368 - INFO - Employee Created: {'employee_id': 'EMP000004', 'name': 'M Chandu', 'department': 'sdfg', 'skills': ['dsfg'], 'created_at': '2026-03-17T06:38:06.367968+00:00'}
+2026-03-17 12:08:06,394 - INFO - 127.0.0.1 - - [17/Mar/2026 12:08:06] "[35m[1mPOST /employees HTTP/1.1[0m" 500 -
+2026-03-17 12:08:09,128 - INFO - 127.0.0.1 - - [17/Mar/2026 12:08:09] "GET /employees?page=1&limit=10&name=m HTTP/1.1" 200 -
+2026-03-18 08:05:34,068 - INFO -  * Detected change in 'C:\\Users\\surik\\Desktop\\Python AI (FLM)\\projects\\Chatbot-Based Employee Management System\\employee_service.py', reloading
+2026-03-18 08:05:36,415 - INFO -  * Restarting with stat
+2026-03-18 08:05:41,208 - WARNING -  * Debugger is active!
+2026-03-18 08:05:41,223 - INFO -  * Debugger PIN: 443-358-039

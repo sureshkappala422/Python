@@ -7,15 +7,32 @@
 
 <body>
 
-<h2>Chatbot-Based Employee Management System</h2>
+<h2>Chatbot-Based Employee Management Systems</h2>
+
 
 <input id="msg" placeholder="Rahul, IT, Python">
 
+
+
+
+<!-- Create Employee Button -->
 <button onclick="sendMessage()">Create Employee</button>
+
+<!-- NEW: View All Employees Button -->
+<button onclick="viewEmployees()">View All Employees</button>
+
 
 <br><br>
 
 <div id="response"></div>
+
+
+<hr>
+
+<!-- ✅ Employee List -->
+<h3>All Employees:</h3>
+<div id="employeeList"></div>
+
 
 <script>
 
@@ -37,6 +54,7 @@ body:JSON.stringify({message:message})
 
 console.log(data);
 
+
 document.getElementById("response").innerHTML =
 "Employee ID : " + data.Employee_ID + "<br>" +
 "Employee Name : " + data.Employee_Name + "<br>" +
@@ -48,6 +66,11 @@ document.getElementById("response").innerHTML =
 .catch(error => console.log(error));
 
 }
+
+
+
+
+
 
 </script>
 
