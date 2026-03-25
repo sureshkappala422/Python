@@ -1,4 +1,0 @@
-flask
-pymongo
-psycopg2-binary
-transformers
